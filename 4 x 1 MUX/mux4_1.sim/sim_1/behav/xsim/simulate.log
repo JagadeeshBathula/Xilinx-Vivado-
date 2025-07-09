@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+t=0 | i = xxxx | s = xx | y = x
+t=10000 | i = 0100 | s = 01 | y = 0
+t=20000 | i = 1001 | s = 11 | y = 1
+t=30000 | i = 1101 | s = 01 | y = 0
+t=40000 | i = 0101 | s = 10 | y = 1
+t=50000 | i = 0001 | s = 01 | y = 0
+t=60000 | i = 0110 | s = 01 | y = 1
+t=70000 | i = 1101 | s = 00 | y = 1
+t=80000 | i = 1001 | s = 10 | y = 0
+t=90000 | i = 0101 | s = 10 | y = 1
+t=100000 | i = 0101 | s = 11 | y = 0
+$finish called at time : 100 ns : File "D:/Vivado/mux4_1/mux4_1.srcs/sim_1/new/simulation.v" Line 24
