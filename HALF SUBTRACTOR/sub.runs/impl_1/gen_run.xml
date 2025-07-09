@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xa7a12tcsg325-2I" LaunchTime="1748893575">
+  <File Type="REPORTS-TCL" Name="sub_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="sub_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="sub.mmi"/>
+  <File Type="OPT-DRC" Name="sub_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="sub.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="sub_route_status.pb"/>
+  <File Type="BG-BGN" Name="sub.bgn"/>
+  <File Type="PLACE-UTIL" Name="sub_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="sub_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="sub_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="sub.bin"/>
+  <File Type="PLACE-CTRL" Name="sub_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="sub_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="sub_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="sub.msk"/>
+  <File Type="BITSTR-RBT" Name="sub.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="sub_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="sub_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="sub_route_status.rpt"/>
+  <File Type="PA-TCL" Name="sub.tcl"/>
+  <File Type="ROUTE-PWR" Name="sub_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="sub_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="sub_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="sub_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="sub.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="sub_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="sub_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="sub.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="sub_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="sub_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="sub.vdi"/>
+  <File Type="ROUTE-CLK" Name="sub_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="sub_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="sub_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="sub_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="sub_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="sub_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="sub_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="sub_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="sub_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="sub.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="sub_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="sub.nky"/>
+  <File Type="BITSTR-BMM" Name="sub_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="sub.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="sub_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="sub_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="sub_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="sub_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="sub_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="sub_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="sub_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="sub_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="sub_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="sub_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="sub_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="sub.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="sub_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="sub_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="sub.rcfi"/>
+  <File Type="CFI_FILE" Name="sub.cfi"/>
+  <File Type="RNPI_FILE" Name="sub.rnpi"/>
+  <File Type="NPI_FILE" Name="sub.npi"/>
+  <File Type="RBD_FILE" Name="sub.rbd"/>
+  <File Type="ROUTE-RQS" Name="sub_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="sub_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/sub.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sub"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
