@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xa7a50tcsg325-1Q" LaunchTime="1751114671">
+  <File Type="PA-TCL" Name="gates.tcl"/>
+  <File Type="REPORTS-TCL" Name="gates_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="gates_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="gates_opt.dcp"/>
+  <File Type="OPT-DRC" Name="gates_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="gates_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="gates.hwdef"/>
+  <File Type="OPT-TIMING" Name="gates_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="gates_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="gates_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="gates_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="gates_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="gates_placed.dcp"/>
+  <File Type="PLACE-IO" Name="gates_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="gates_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="gates_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="gates_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="gates_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="gates_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="gates_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="gates_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="gates_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="gates_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="gates_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="gates_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="gates_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="gates_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="gates_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="gates_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="gates_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="gates_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="gates_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="gates_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="gates_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="gates_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="gates_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="gates_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="gates_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="gates_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="gates_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="gates_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="gates_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="gates_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="gates_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="gates_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="gates_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="gates_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="gates_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="gates_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-RQS-PB" Name="gates_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="gates_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="gates_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="gates_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="gates_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="gates_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="gates_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="gates_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="gates_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="gates.bit"/>
+  <File Type="BG-BIN" Name="gates.bin"/>
+  <File Type="BITSTR-MSK" Name="gates.msk"/>
+  <File Type="BITSTR-RBT" Name="gates.rbt"/>
+  <File Type="BITSTR-NKY" Name="gates.nky"/>
+  <File Type="BITSTR-BMM" Name="gates_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="gates.mmi"/>
+  <File Type="PDI-FILE" Name="gates.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="gates_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="gates_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="gates.rcfi"/>
+  <File Type="CFI_FILE" Name="gates.cfi"/>
+  <File Type="RNPI_FILE" Name="gates.rnpi"/>
+  <File Type="NPI_FILE" Name="gates.npi"/>
+  <File Type="RBD_FILE" Name="gates.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="gates.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="gates.sysdef"/>
+  <File Type="BG-BGN" Name="gates.bgn"/>
+  <File Type="BG-DRC" Name="gates.drc"/>
+  <File Type="RDI-RDI" Name="gates.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="gates_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="gates_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/gates.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="gates"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
