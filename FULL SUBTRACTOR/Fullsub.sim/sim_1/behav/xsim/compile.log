@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Fullsub/Fullsub.srcs/sources_1/new/fsub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsub
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Fullsub/Fullsub.srcs/sim_1/new/simuli.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simuli
