@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/priority encoder/priority encoder.srcs/sources_1/new/priority_encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/priority encoder/priority encoder.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/priority encoder/priority encoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
