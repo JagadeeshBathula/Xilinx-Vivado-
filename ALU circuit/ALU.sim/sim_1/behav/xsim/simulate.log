@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+t=10000, s=000, y=1111, carry=0, zero=0
+t=20000, s=001, y=0101, carry=0, zero=0
+t=30000, s=010, y=0000, carry=0, zero=1
+t=40000, s=011, y=1111, carry=0, zero=0
+t=50000, s=100, y=1111, carry=0, zero=0
+t=60000, s=101, y=0101, carry=0, zero=0
+t=70000, s=110, y=0000, carry=0, zero=1
+t=80000, s=111,y=0000, carry=0, zero=1
+$finish called at time : 80 ns : File "D:/Vivado/ALU/ALU.srcs/sim_1/new/simulation.v" Line 35
