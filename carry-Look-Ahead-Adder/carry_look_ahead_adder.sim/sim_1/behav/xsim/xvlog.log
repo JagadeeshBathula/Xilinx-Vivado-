@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/carry_look_ahead_adder/carry_look_ahead_adder.srcs/sources_1/new/CLA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/carry_look_ahead_adder/carry_look_ahead_adder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
