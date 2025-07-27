@@ -1,0 +1,7 @@
+Running: xsim.dir/B2G_behav/xsimk.exe -simmode gui -wdb B2G_behav.wdb -simrunnum 0 -socket 50671
+Design successfully loaded
+Design Loading Memory Usage: 29596 KB (Peak: 29596 KB)
+Design Loading CPU Usage: 608 ms
+Simulation completed
+Simulation Memory Usage: 30384 KB (Peak: 30384 KB)
+Simulation CPU Usage: 671 ms
