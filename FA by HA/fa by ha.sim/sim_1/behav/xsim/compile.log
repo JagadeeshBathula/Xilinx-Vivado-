@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/fa by ha/fa by ha.srcs/sources_1/new/FA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/fa by ha/fa by ha.srcs/sources_1/new/HA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/fa by ha/fa by ha.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
