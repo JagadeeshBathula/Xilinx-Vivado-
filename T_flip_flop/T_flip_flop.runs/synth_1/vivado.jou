@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Jul 25 17:51:04 2025
+# Process ID         : 5188
+# Current directory  : D:/Vivado/T_flip_flop/T_flip_flop.runs/synth_1
+# Command line       : vivado.exe -log T_flip_flop.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source T_flip_flop.tcl
+# Log file           : D:/Vivado/T_flip_flop/T_flip_flop.runs/synth_1/T_flip_flop.vds
+# Journal file       : D:/Vivado/T_flip_flop/T_flip_flop.runs/synth_1\vivado.jou
+# Running On         : Jagga
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 155H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 16507 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17581 MB
+# Available Virtual  : 6028 MB
+#-----------------------------------------------------------
+source T_flip_flop.tcl -notrace
