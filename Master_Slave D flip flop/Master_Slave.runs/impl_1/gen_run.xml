@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a50tcsg325-2L" LaunchTime="1753534924">
+  <File Type="ROUTE-PWR" Name="Master_Slave_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Master_Slave.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="Master_Slave_power_summary_routed.pb"/>
+  <File Type="OPT-RQA-PB" Name="Master_Slave_rqa_opted.pb"/>
+  <File Type="REPORTS-TCL" Name="Master_Slave_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="Master_Slave_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="Master_Slave_opt.dcp"/>
+  <File Type="OPT-DRC" Name="Master_Slave_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Master_Slave_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Master_Slave.hwdef"/>
+  <File Type="OPT-TIMING" Name="Master_Slave_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="Master_Slave_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Master_Slave_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Master_Slave_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Master_Slave_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Master_Slave_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Master_Slave_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Master_Slave_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Master_Slave_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Master_Slave_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Master_Slave_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Master_Slave_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="Master_Slave.bin"/>
+  <File Type="PLACE-TIMING" Name="Master_Slave_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="Master_Slave_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="Master_Slave_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Master_Slave_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="Master_Slave.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Master_Slave_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Master_Slave_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Master_Slave_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="Master_Slave.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="Master_Slave_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Master_Slave_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Master_Slave_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Master_Slave_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Master_Slave_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Master_Slave_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Master_Slave_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Master_Slave_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Master_Slave_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Master_Slave_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="Master_Slave_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="Master_Slave_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Master_Slave_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Master_Slave_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Master_Slave_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Master_Slave_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Master_Slave_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Master_Slave_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Master_Slave_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Master_Slave_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Master_Slave_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Master_Slave_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Master_Slave_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Master_Slave_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Master_Slave_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Master_Slave_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Master_Slave_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="Master_Slave.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Master_Slave_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Master_Slave_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="Master_Slave.nky"/>
+  <File Type="BITSTR-BMM" Name="Master_Slave_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Master_Slave.mmi"/>
+  <File Type="PDI-FILE" Name="Master_Slave.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="Master_Slave_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="Master_Slave_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="Master_Slave.rcfi"/>
+  <File Type="CFI_FILE" Name="Master_Slave.cfi"/>
+  <File Type="RNPI_FILE" Name="Master_Slave.rnpi"/>
+  <File Type="NPI_FILE" Name="Master_Slave.npi"/>
+  <File Type="RBD_FILE" Name="Master_Slave.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Master_Slave.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Master_Slave.sysdef"/>
+  <File Type="BG-BGN" Name="Master_Slave.bgn"/>
+  <File Type="BG-DRC" Name="Master_Slave.drc"/>
+  <File Type="RDI-RDI" Name="Master_Slave.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="Master_Slave_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Master_Slave_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/D_latch.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Master_Slave.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Master_Slave"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
