@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+t=10000, S=0, R=0, Q=1, Qn=0
+t=20000, S=1, R=0, Q=1, Qn=0
+t=30000, S=1, R=1, Q=x, Qn=x
+t=40000, S=0, R=1, Q=0, Qn=1
+$finish called at time : 50 ns : File "D:/Vivado/SR_latch/SR_latch.srcs/sim_1/new/simulation.v" Line 18
