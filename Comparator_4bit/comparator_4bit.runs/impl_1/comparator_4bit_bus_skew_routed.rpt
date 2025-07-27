@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Jul  6 21:30:59 2025
+| Host         : Jagga running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file comparator_4bit_bus_skew_routed.rpt -pb comparator_4bit_bus_skew_routed.pb -rpx comparator_4bit_bus_skew_routed.rpx
+| Design       : comparator_4bit
+| Device       : xa7a12t-csg325
+| Speed File   : -1I  PRODUCTION 1.16 2018-06-13
+| Design State : Routed
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

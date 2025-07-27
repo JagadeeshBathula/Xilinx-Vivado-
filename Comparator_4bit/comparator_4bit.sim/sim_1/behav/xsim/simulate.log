@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+t=0, a=xxxx, b=xxxx, gt=x, eq=x, lt=x
+t=10000, a=0100, b=0001, gt=1, eq=0, lt=0
+t=20000, a=1001, b=0011, gt=1, eq=0, lt=0
+t=30000, a=1101, b=1101, gt=0, eq=1, lt=0
+t=40000, a=0101, b=0010, gt=1, eq=0, lt=0
+t=50000, a=0001, b=1101, gt=0, eq=0, lt=1
+t=60000, a=0110, b=1101, gt=0, eq=0, lt=1
+t=70000, a=1101, b=1100, gt=1, eq=0, lt=0
+t=80000, a=1001, b=0110, gt=1, eq=0, lt=0
+t=90000, a=0101, b=1010, gt=0, eq=0, lt=1
+t=100000, a=0101, b=0111, gt=0, eq=0, lt=1
+$finish called at time : 100 ns : File "D:/Vivado/comparator_4bit/comparator_4bit.srcs/sim_1/new/simulation.v" Line 21
