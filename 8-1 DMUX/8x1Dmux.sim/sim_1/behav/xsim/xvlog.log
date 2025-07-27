@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/8x1Dmux/8x1Dmux.srcs/sources_1/new/dmux8_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmux8_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/8x1Dmux/8x1Dmux.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/8x1Dmux/8x1Dmux.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

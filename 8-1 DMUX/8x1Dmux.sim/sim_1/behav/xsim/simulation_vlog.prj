@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../8x1Dmux.srcs/sources_1/new/dmux8_1.v" \
+"../../../../8x1Dmux.srcs/sim_1/new/simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
