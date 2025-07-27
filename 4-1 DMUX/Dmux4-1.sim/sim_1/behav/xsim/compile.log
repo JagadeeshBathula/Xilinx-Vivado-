@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Dmux4-1/Dmux4-1.srcs/sources_1/new/dmux4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmux4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Dmux4-1/Dmux4-1.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation

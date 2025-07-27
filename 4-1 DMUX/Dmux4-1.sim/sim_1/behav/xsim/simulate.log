@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+t=0, i=x, s=xx, y=xxxx
+t=10000, i=0, s=01, y=0000
+t=20000, i=1, s=11, y=1000
+t=30000, i=1, s=01, y=0010
+t=40000, i=1, s=10, y=0100
+t=50000, i=1, s=01, y=0010
+t=60000, i=0, s=01, y=0000
+t=70000, i=1, s=00, y=0001
+t=80000, i=1, s=10, y=0100
+t=90000, i=1, s=10, y=0100
+t=100000, i=1, s=11, y=1000
+$finish called at time : 100 ns : File "D:/Vivado/Dmux4-1/Dmux4-1.srcs/sim_1/new/simulation.v" Line 17
