@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+t=0, T=0, clk=0, Q=0, Qn=1
+t=5000, T=0, clk=1, Q=0, Qn=1
+t=10000, T=1, clk=0, Q=0, Qn=1
+t=15000, T=1, clk=1, Q=1, Qn=0
+t=20000, T=0, clk=0, Q=1, Qn=0
+t=25000, T=0, clk=1, Q=1, Qn=0
+t=30000, T=1, clk=0, Q=1, Qn=0
+t=35000, T=1, clk=1, Q=0, Qn=1
+t=40000, T=1, clk=0, Q=0, Qn=1
+t=45000, T=1, clk=1, Q=1, Qn=0
+t=50000, T=0, clk=0, Q=1, Qn=0
+t=55000, T=0, clk=1, Q=1, Qn=0
+$finish called at time : 60 ns : File "D:/Vivado/T_flip_flop/T_flip_flop.srcs/sim_1/new/simulation.v" Line 21
