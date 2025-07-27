@@ -1,0 +1,7 @@
+Running: xsim.dir/rp_adder_behav/xsimk.exe -simmode gui -wdb rp_adder_behav.wdb -simrunnum 0 -socket 50867
+Design successfully loaded
+Design Loading Memory Usage: 28704 KB (Peak: 28704 KB)
+Design Loading CPU Usage: 952 ms
+Simulation completed
+Simulation Memory Usage: 29500 KB (Peak: 29500 KB)
+Simulation CPU Usage: 1015 ms

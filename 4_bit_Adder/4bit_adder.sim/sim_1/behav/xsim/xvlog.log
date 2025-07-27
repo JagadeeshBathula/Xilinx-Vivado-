@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/4bit_adder/4bit_adder.srcs/sources_1/new/fs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fs
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/4bit_adder/4bit_adder.srcs/sources_1/new/4bitadder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rp_adder
