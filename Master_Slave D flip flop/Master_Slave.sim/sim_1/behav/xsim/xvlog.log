@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Master_Slave.srcs/sources_1/new/D_latch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_latch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Master_Slave.srcs/sources_1/new/Master_Slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Master_Slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Master_Slave.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation

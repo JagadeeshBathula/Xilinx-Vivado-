@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Vivado/Master_slave/Master_Slave.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Master_slave/Master_Slave.srcs/sim_1/new/simulation.v,1753534298,verilog,,,,simulation,,,,,,,,
+D:/Vivado/Master_slave/Master_Slave.srcs/sources_1/new/D_latch.v,1753452995,verilog,,D:/Vivado/Master_slave/Master_Slave.srcs/sources_1/new/Master_Slave.v,,D_latch,,,,,,,,
+D:/Vivado/Master_slave/Master_Slave.srcs/sources_1/new/Master_Slave.v,1753476434,verilog,,D:/Vivado/Master_slave/Master_Slave.srcs/sim_1/new/simulation.v,,Master_Slave,,,,,,,,
