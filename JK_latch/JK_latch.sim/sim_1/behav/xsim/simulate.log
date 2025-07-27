@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+t=0, J=1, K=0, en=1, Q=1, Qn=0
+t=10000, J=0, K=0, en=1, Q=1, Qn=0
+t=20000, J=0, K=1, en=1, Q=0, Qn=1
+t=30000, J=1, K=0, en=1, Q=1, Qn=0
+t=40000, J=1, K=1, en=1, Q=0, Qn=1
+t=50000, J=0, K=1, en=0, Q=0, Qn=1
+t=60000, J=1, K=1, en=1, Q=1, Qn=0
+$finish called at time : 70 ns : File "D:/Vivado/JK_latch/JK_latch.srcs/sim_1/new/simulation.v" Line 19
