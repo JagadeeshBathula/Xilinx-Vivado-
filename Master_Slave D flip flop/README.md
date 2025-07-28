@@ -1,4 +1,4 @@
-#v🔄 Master-Slave D Flip-Flop
+# 🔄 Master-Slave D Flip-Flop
 
 
 A Master-Slave D Flip-Flop is a sequential circuit built using two D latches connected in series:
@@ -31,9 +31,11 @@ Slave outputs the value held by Master.
 
 ## ⛓️ Truth Table:
 
-| Clock Edge |	D |	Q (Next) |
-| Rising	| 0  |	0 |
-| Rising	| 1 | 	1 |
+| Clock Edge  |	D  |	Q (Next) |
+|-------------|-- -|------ ----|
+| Rising    	| 0  |	0        |
+|--------    -|----|--       --|
+| Rising	   | 1   | 	1        |
 
 ## 🛠️ Applications:
 
