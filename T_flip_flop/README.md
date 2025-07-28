@@ -38,6 +38,20 @@ When T = 1 at clock rising edge → Q toggles.
 
 When T = 0 → Q remains unchanged.
 
+![Image](https://github.com/user-attachments/assets/008aff54-415f-4339-a202-593bea3eb7a6)
+
+![Image](https://github.com/user-attachments/assets/3311a889-6226-4e5f-8e5e-0037846950d1)
+
+![Image](https://github.com/user-attachments/assets/d5bd0093-cfac-4c22-892b-5618b1440e6d)
+
+![Image](https://github.com/user-attachments/assets/b6147c70-e144-429b-b540-2c7502865c95)
+
+![Image](https://github.com/user-attachments/assets/6ede872d-5482-493d-bc7d-75bb35cf4998)
+
+![Image](https://github.com/user-attachments/assets/b6fd92ac-8d33-4b30-ae5d-c7eb49c887a3)
+
+![Image](https://github.com/user-attachments/assets/40b298d6-d6ad-45d7-a608-70ccd8e9c79c)
+
 
 ## 🛠️ 5. Applications of T Flip-Flop:
 
