@@ -40,6 +40,7 @@ First stage → clk/2
 
 Second stage → clk/4
 
+![Image](https://github.com/user-attachments/assets/4866b6c8-4275-480c-8747-ff90e8bd52fa)
 
 
 ## 📌 Applications of Frequency Dividers:
