@@ -32,10 +32,9 @@ Slave outputs the value held by Master.
 ## ⛓️ Truth Table:
 
 | Clock Edge  |	D  |	Q (Next) |
-|-------------|-- -|------ ----|
+|-------------|----|-----------|
 | Rising    	| 0  |	0        |
-|--------    -|----|--       --|
-| Rising	   | 1   | 	1        |
+| Rising	    | 1  | 	1        |
 
 ## 🛠️ Applications:
 
