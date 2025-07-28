@@ -1,4 +1,4 @@
-#📘 Design: Frequency Divider (Divide-by-2 & Divide-by-4)
+# 📘 Design: Frequency Divider (Divide-by-2 & Divide-by-4)
 
 
 
@@ -26,7 +26,7 @@ Both outputs were verified using behavioral simulation in Vivado, and the wavefo
 
 
 
-##⚙️ How it works:
+## ⚙️ How it works:
 
 
 
@@ -42,7 +42,7 @@ Second stage → clk/4
 
 
 
-##📌 Applications of Frequency Dividers:
+## 📌 Applications of Frequency Dividers:
 
 
 
