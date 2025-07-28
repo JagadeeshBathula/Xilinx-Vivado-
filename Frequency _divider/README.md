@@ -44,6 +44,18 @@ Second stage → clk/4
 
 ![Image](https://github.com/user-attachments/assets/bb21765a-eec5-4e81-8931-9d3838b51f85)
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d1aa09c3-a51f-4c4a-b1ec-7baa60e96854" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e84efc03-f4cd-47a1-aae8-3be613ba7ff7" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ccd50ea5-cb76-4e6e-a2ea-cea1c68945ed" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f93b10f2-8c3c-4081-8a87-270184b461a0" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/de3414b4-9f6d-4f68-8954-1e4883571140" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/874fbd0b-d10c-49a1-9c33-b7e33ffa69eb" />
+
 
 ## 📌 Applications of Frequency Dividers:
 
