@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Frequency_Divider/Frequency_Divider.srcs/sources_1/new/Freq_divider_by_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Freq_divider_by_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Frequency_Divider/Frequency_Divider.srcs/sim_1/new/simulationn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulationn
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Frequency_Divider/Frequency_Divider.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
