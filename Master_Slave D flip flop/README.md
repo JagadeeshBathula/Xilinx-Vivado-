@@ -29,6 +29,24 @@ Slave outputs the value held by Master.
 
 🔁 Thus, the output Q only updates on the clock edge, making it immune to input glitches during the rest of the clock cycle.
 
+![Image](https://github.com/user-attachments/assets/886a22c8-bea1-4c97-83aa-1acf3654ffe7)
+
+![Image](https://github.com/user-attachments/assets/0ad5d463-dbb5-4c9f-83a5-ab5c01a82342)
+
+![Image](https://github.com/user-attachments/assets/936f7e04-0e6a-4fc2-b594-937a672388d2)
+
+![Image](https://github.com/user-attachments/assets/be5d1d66-291b-4def-bf15-7f46a30cfd55)
+
+![Image](https://github.com/user-attachments/assets/27b5ee29-a6ab-40ff-9645-d801dee4bb5e)
+
+![Image](https://github.com/user-attachments/assets/6d9bb13e-89e1-4714-8696-692fc2797ad8)
+
+![Image](https://github.com/user-attachments/assets/129b5e9c-6e2b-4e58-a66f-9faadafaad22)
+
+![Image](https://github.com/user-attachments/assets/dedd6e2a-22e2-44b6-896e-962dc821644c)
+
+![Image](https://github.com/user-attachments/assets/5ffe219e-7253-4e22-8e33-ccc57d403ac2)
+
 ## ⛓️ Truth Table:
 
 | Clock Edge  |	D  |	Q (Next) |
