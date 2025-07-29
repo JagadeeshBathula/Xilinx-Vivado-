@@ -84,6 +84,9 @@ Observe output waveform.
 
 🔗 Connect With Me
 
+www.linkedin.com/in/
+jagadeesh-bathula-246aba300
+
 
 📌 Tags
 #Verilog #ShiftRegister #SIPO #RTLDesign #Vivado #DigitalDesign #100DaysOfRTL #VLSI
