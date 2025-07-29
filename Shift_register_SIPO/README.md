@@ -30,7 +30,15 @@ serial_in – Serial data input
 
 Outputs:
 
-parallel_out [3:0] – 4-bit parallel output
+parallel_out [3:0] – 4-bit parallel output 
+
+![Image](https://github.com/user-attachments/assets/8b372a64-a0cf-48a8-9fdc-90f0ad5d3863)
+
+![Image](https://github.com/user-attachments/assets/b9958d0b-bce8-407b-81ac-e9b678a9872f)
+
+![Image](https://github.com/user-attachments/assets/38cc3b4a-5262-4fc6-b30d-f263acb12f09)
+
+![Image](https://github.com/user-attachments/assets/4ca865ed-2d98-4a06-a132-db590cc827dd)
 
 ## 🧩 Design Variants:
 
