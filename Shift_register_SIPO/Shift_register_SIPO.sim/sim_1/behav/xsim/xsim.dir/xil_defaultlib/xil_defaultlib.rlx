@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.srcs/sim_1/new/simulation.v,1753788428,verilog,,,,simulation,,,,,,,,
+D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.srcs/sources_1/new/D_ff.v,1753787689,verilog,,D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.srcs/sources_1/new/shift_register_SIPO.v,,D_ff,,,,,,,,
+D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.srcs/sources_1/new/shift_register_SIPO.v,1753788002,verilog,,D:/Vivado/Master_slave/Shift_register_SIPO/Shift_register_SIPO.srcs/sim_1/new/simulation.v,,shift_register_SIPO,,,,,,,,
