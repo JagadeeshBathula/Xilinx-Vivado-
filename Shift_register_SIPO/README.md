@@ -50,7 +50,19 @@ Structural model: Built using four connected D flip-flops.
 
 📄 Verilog Code Snippets
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1883b3be-9a3a-4bc5-8bb3-53fbb8367061" />
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9ef578e7-6653-4ec9-b710-354331efd5db" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d022f1d9-632f-479c-8855-b381ffd11f9b" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/85588ea5-f498-4fcc-aacd-e979fee7e6dd" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3f3c6b14-c48c-47df-b3f1-5f2dbb06a0a3" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8c290da6-7503-4b5c-af2d-00a21f691cbb" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c91afda0-0a0a-4683-9c5b-ccd6db1a81c5" />
 
 
 ✅ Simulation Tool Used: Vivado Simulator (2024.2)
