@@ -49,6 +49,21 @@ When reset is high, all flip-flops are cleared to 0.
 
 ![Image](https://github.com/user-attachments/assets/c6617e9f-d7bd-42ad-8419-4bc15f308704)
 
+### Vivado Impolementation 
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f1d666d6-d04f-42a3-aa18-f0d3727633a4" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7db2cb98-8521-4631-b8ef-96b70a0bc54e" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/29c9a91c-908d-482a-a035-9fab5a148559" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b287f10a-ce28-4870-9ca0-367ec88dec0b" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/31c3332a-48e2-4c09-a3fb-4eb6d4636d5d" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/37aebd44-d923-4aa7-a3b5-32db24998284" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6a299f1d-c1c0-4454-acce-362b4674f908" />
 
 ### 📦 File Structure
 
