@@ -42,6 +42,14 @@ After n clock cycles (for an n-bit register), the first input bit appears at the
 
 When reset is high, all flip-flops are cleared to 0.
 
+### Explanation 
+
+![Image](https://github.com/user-attachments/assets/be7a8f7f-4eae-4aca-add0-c890a10aad0d)
+
+
+![Image](https://github.com/user-attachments/assets/c6617e9f-d7bd-42ad-8419-4bc15f308704)
+
+
 ### 📦 File Structure
 
 ├── shift_register_SISO.v       // RTL design
