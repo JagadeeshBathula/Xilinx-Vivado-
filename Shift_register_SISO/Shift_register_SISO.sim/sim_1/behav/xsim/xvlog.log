@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Shift_register_SISO/Shift_register_SISO.srcs/sources_1/new/D_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Shift_register_SISO/Shift_register_SISO.srcs/sources_1/new/shift_register_SISO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register_SISO
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/Shift_register_SISO/Shift_register_SISO.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
