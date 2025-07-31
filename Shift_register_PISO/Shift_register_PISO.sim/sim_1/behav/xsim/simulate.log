@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+t=0 | D=0000 | clk=0 | reset=1 | control=0 | Q=0
+t=5000 | D=0000 | clk=1 | reset=1 | control=0 | Q=0
+t=10000 | D=1011 | clk=0 | reset=0 | control=0 | Q=0
+t=15000 | D=1011 | clk=1 | reset=0 | control=0 | Q=0
+t=20000 | D=1011 | clk=0 | reset=0 | control=1 | Q=0
+t=25000 | D=1011 | clk=1 | reset=0 | control=1 | Q=1
+t=30000 | D=1011 | clk=0 | reset=0 | control=1 | Q=1
+t=35000 | D=1011 | clk=1 | reset=0 | control=1 | Q=1
+t=40000 | D=1011 | clk=0 | reset=0 | control=1 | Q=1
+t=45000 | D=1011 | clk=1 | reset=0 | control=1 | Q=1
+t=50000 | D=1011 | clk=0 | reset=0 | control=1 | Q=1
+t=55000 | D=1011 | clk=1 | reset=0 | control=1 | Q=1
+$finish called at time : 60 ns : File "D:/Vivado/Master_slave/Shift_register_PISO/Shift_register_PISO.srcs/sim_1/new/simulation.v" Line 31
