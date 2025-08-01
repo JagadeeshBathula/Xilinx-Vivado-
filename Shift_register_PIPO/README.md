@@ -35,7 +35,7 @@ There is no shift operation involved between the flip-flops.
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f7f1013e-e71b-4efc-ba39-3ef9da6465e9" />
 
-🔧 Features
+## 🔧 Features
 
 Parallel Data Input: D[n-1:0]
 
@@ -45,7 +45,8 @@ Clock Signal: Synchronizes data loading
 
 Synchronous Design: All bits loaded simultaneously on the same clock edge
 
-📘 Applications
+## 📘 Applications
+
 Register files in processors
 
 Temporary data buffers
