@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+t=0, D=0001, clk=0, reset=0, Q=0000
+t=5000, D=0001, clk=1, reset=0, Q=0001
+t=10000, D=0000, clk=0, reset=0, Q=0001
+t=15000, D=0000, clk=1, reset=0, Q=0000
+t=20000, D=0001, clk=0, reset=0, Q=0000
+t=25000, D=0001, clk=1, reset=0, Q=0001
+t=30000, D=0001, clk=0, reset=0, Q=0001
+t=35000, D=0001, clk=1, reset=0, Q=0001
+t=40000, D=0001, clk=0, reset=0, Q=0001
+t=45000, D=0001, clk=1, reset=0, Q=0001
+$finish called at time : 50 ns : File "D:/Vivado/Master_slave/Shift_register_PIPO/Shift_register_PIPO.srcs/sim_1/new/simulation.v" Line 25
