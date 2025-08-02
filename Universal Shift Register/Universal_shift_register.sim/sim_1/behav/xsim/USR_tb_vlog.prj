@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Universal_shift_register.srcs/sources_1/new/D_ff.v" \
+"../../../../Universal_shift_register.srcs/sources_1/new/USR.v" \
+"../../../../Universal_shift_register.srcs/sources_1/new/mux_4x1.v" \
+"../../../../Universal_shift_register.srcs/sim_1/new/simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sim_1/new/simulation.v,1754140564,verilog,,,,USR_tb,,,,,,,,
+D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sources_1/new/D_ff.v,1754138123,verilog,,D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sources_1/new/USR.v,,D_ff,,,,,,,,
+D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sources_1/new/USR.v,1754140416,verilog,,D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sources_1/new/mux_4x1.v,,USR,,,,,,,,
+D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sources_1/new/mux_4x1.v,1754133754,verilog,,D:/Vivado/Master_slave/Universal_shift_register/Universal_shift_register.srcs/sim_1/new/simulation.v,,mux_4x1,,,,,,,,
