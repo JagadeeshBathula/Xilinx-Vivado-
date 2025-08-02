@@ -25,7 +25,7 @@ Parallel Load
 | 0  |	0   |	Hold	    |Retains previous data |
 | 0  |	1   |	Shift Right	| Shifts all bits right, MSB gets serial input |
 | 1  |	0   |	Shift Left |	Shifts all bits left, LSB gets serial input |
-| 1  |	1   |	Parallel Load	Loads data directly from inputs |
+| 1  |	1   |	Parallel Load |	Loads data directly from inputs |
 
 S1 and S0 are control signals.
 
@@ -34,5 +34,35 @@ SinL and SinR are serial inputs for left and right shift operations.
 D is the 4-bit parallel data input.
 
 Q is the 4-bit register output.
+
+### 🧱 Structural Design (Gate-Level)
+
+The design is implemented at structural level using multiplexers and D flip-flops:
+
+Each bit has a 4:1 multiplexer to select the source of data.
+
+Data from MUX is stored using D flip-flops on every clock edge.
+
+### 🕹️ Inputs and Outputs
+
+Inputs:
+
+clk – Clock signal
+
+reset – Synchronous reset
+
+S1, S0 – Mode select lines
+
+SinL, SinR – Serial inputs for shift operations
+
+D[3:0] – 4-bit parallel input data
+
+Outputs:
+
+Q[3:0] – 4-bit register output
+
+## On Paper explanation 
+
+
 
 
