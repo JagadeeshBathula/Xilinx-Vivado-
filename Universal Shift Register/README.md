@@ -77,8 +77,25 @@ Q[3:0] – 4-bit register output
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f536d165-522c-4e37-96a7-097b8afe6d5e" />
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/07cb9937-c896-4b16-936e-9ad560a73efd" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1d3dfce1-7d1d-4c46-b765-1708d8da2dbc" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8a8d84e6-d676-468c-adf2-4a5519587ee6" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1aa72bbd-f623-4071-b154-cc3d297c66b9" />
+
+## 📝 Applications
+
+Data manipulation in ALUs
+
+Serial-to-parallel and parallel-to-serial conversion
+
+Temporary data storage and buffering
+
+Digital signal processing systems
+
+## ✅ Conclusion
+
+The Universal Shift Register provides full flexibility for bit-level data handling, making it an essential part of many digital systems. Through its mode control inputs, it enables compact and dynamic data operations that are crucial in both hardware design and embedded applications.
+
+
+
