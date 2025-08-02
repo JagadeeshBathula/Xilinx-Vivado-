@@ -69,7 +69,7 @@ Q[3:0] – 4-bit register output
 
 ![Image](https://github.com/user-attachments/assets/f29a0ead-38a8-4175-8943-e44340daa518)
 
-## Verilog  code and ssimulation 
+## Verilog  code and simulation 
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9e6151d7-fdf1-4761-a766-614354ff2e47" />
 
@@ -97,5 +97,10 @@ Digital signal processing systems
 
 The Universal Shift Register provides full flexibility for bit-level data handling, making it an essential part of many digital systems. Through its mode control inputs, it enables compact and dynamic data operations that are crucial in both hardware design and embedded applications.
 
+## Contact me :
+
+www.linkedin.com/in/
+jagadeesh-bathula-246aba300
+Vanity URL name
 
 
