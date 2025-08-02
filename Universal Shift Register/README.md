@@ -63,6 +63,10 @@ Q[3:0] – 4-bit register output
 
 ## On Paper explanation 
 
+![Image](https://github.com/user-attachments/assets/19e81f77-7e3b-4ee6-9ac0-3b9a6f2dd3db)
 
+![Image](https://github.com/user-attachments/assets/701e51a1-d5c4-498f-b870-a776d30b3fea)
+
+![Image](https://github.com/user-attachments/assets/f29a0ead-38a8-4175-8943-e44340daa518)
 
 
