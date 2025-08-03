@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.srcs/sim_1/new/simulation.v,1754226565,verilog,,,,simulation,,,,,,,,
+D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.srcs/sources_1/new/D_ff.v,1754228677,verilog,,D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.srcs/sources_1/new/ring_counter.v,,D_ff,,,,,,,,
+D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.srcs/sources_1/new/ring_counter.v,1754228821,verilog,,D:/Vivado/Master_slave/Ring_Counter/Ring_Counter.srcs/sim_1/new/simulation.v,,ring_counter,,,,,,,,
