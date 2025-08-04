@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a15tcsg325-2" LaunchTime="1754327254">
+  <File Type="ROUTE-PWR" Name="async_counter_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="async_counter.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="async_counter_power_summary_routed.pb"/>
+  <File Type="OPT-RQA-PB" Name="async_counter_rqa_opted.pb"/>
+  <File Type="REPORTS-TCL" Name="async_counter_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="async_counter_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="async_counter_opt.dcp"/>
+  <File Type="OPT-DRC" Name="async_counter_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="async_counter_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="async_counter.hwdef"/>
+  <File Type="OPT-TIMING" Name="async_counter_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="async_counter_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="async_counter_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="async_counter_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="async_counter_placed.dcp"/>
+  <File Type="PLACE-IO" Name="async_counter_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="async_counter_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="async_counter_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="async_counter_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="async_counter_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="async_counter_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="async_counter_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="async_counter.bin"/>
+  <File Type="PLACE-TIMING" Name="async_counter_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="async_counter_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="async_counter_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="async_counter_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="async_counter.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="async_counter_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="async_counter_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="async_counter_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="async_counter.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="async_counter_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="async_counter_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="async_counter_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="async_counter_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="async_counter_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="async_counter_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="async_counter_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="async_counter_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="async_counter_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="async_counter_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="async_counter_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="async_counter_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="async_counter_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="async_counter_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="async_counter_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="async_counter_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="async_counter_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="async_counter_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="async_counter_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="async_counter_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="async_counter_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="async_counter_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="async_counter_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="async_counter_4bit_structural_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="async_counter_4bit_structural_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="async_counter_4bit_structural_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="async_counter_4bit_structural_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="async_counter.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="async_counter_4bit_structural_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="async_counter_4bit_structural_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="async_counter.nky"/>
+  <File Type="BITSTR-BMM" Name="async_counter_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="async_counter.mmi"/>
+  <File Type="PDI-FILE" Name="async_counter.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="async_counter_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="async_counter_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="async_counter.rcfi"/>
+  <File Type="CFI_FILE" Name="async_counter.cfi"/>
+  <File Type="RNPI_FILE" Name="async_counter.rnpi"/>
+  <File Type="NPI_FILE" Name="async_counter.npi"/>
+  <File Type="RBD_FILE" Name="async_counter.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="async_counter.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="async_counter.sysdef"/>
+  <File Type="BG-BGN" Name="async_counter.bgn"/>
+  <File Type="BG-DRC" Name="async_counter.drc"/>
+  <File Type="RDI-RDI" Name="async_counter.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="async_counter_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="async_counter_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/T_ff.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/async_counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="async_counter"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
