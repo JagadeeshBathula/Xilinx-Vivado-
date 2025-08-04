@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Time = 0 | Q = 0000
+Time = 10000 | Q = 0001
+Time = 20000 | Q = 0010
+Time = 30000 | Q = 0011
+Time = 40000 | Q = 0100
+Time = 50000 | Q = 0101
+Time = 60000 | Q = 0110
+Time = 70000 | Q = 0111
+Time = 80000 | Q = 1000
+Time = 90000 | Q = 1001
+Time = 100000 | Q = 1010
+Time = 110000 | Q = 1011
+Time = 120000 | Q = 1100
+Time = 130000 | Q = 1101
+Time = 140000 | Q = 1110
+Time = 150000 | Q = 1111
+Time = 160000 | Q = 0000
+Time = 170000 | Q = 0001
+Time = 180000 | Q = 0010
+Time = 190000 | Q = 0011
+Time = 200000 | Q = 0100
+$finish called at time : 210 ns : File "D:/Vivado/Asynchronous_counter/Asynchronous_counter.srcs/sim_1/new/simulation.v" Line 28
