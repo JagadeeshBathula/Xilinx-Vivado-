@@ -28,6 +28,22 @@ FF3 toggles when Q2 & Q1 & Q0 = 1
 
 All flip-flops are connected to the same clock input, making the entire counter synchronous.
 
+![Image](https://github.com/user-attachments/assets/1b5fae40-f12b-4aca-b66f-195351c1a337)
+
+![Image](https://github.com/user-attachments/assets/64b1194e-1641-4cde-a53f-3930456679ae)
+
+## Vivado Simulation
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a3393ece-a92f-47cc-a983-312f0764bcac" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0023ee13-108f-442a-a6a7-dd2d7593cab6" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a486934d-fa41-412d-81f3-8e71d385e7ab" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b5ea70b7-d78a-44ae-bb93-a4eb8593bed5" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/5aaf18b6-af7c-49cf-a48c-6919a6a8ca23" />
+
 ## ▶️ Simulation Results
 
 The counter starts from 0000 after reset.
