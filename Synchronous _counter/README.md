@@ -28,9 +28,11 @@ FF3 toggles when Q2 & Q1 & Q0 = 1
 
 All flip-flops are connected to the same clock input, making the entire counter synchronous.
 
-![Image](https://github.com/user-attachments/assets/1b5fae40-f12b-4aca-b66f-195351c1a337)
+
 
 ![Image](https://github.com/user-attachments/assets/64b1194e-1641-4cde-a53f-3930456679ae)
+
+![Image](https://github.com/user-attachments/assets/1b5fae40-f12b-4aca-b66f-195351c1a337)
 
 ## Vivado Simulation
 
