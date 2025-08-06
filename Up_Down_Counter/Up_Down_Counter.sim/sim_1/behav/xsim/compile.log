@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Up_Down_Counter/Up_Down_Counter.srcs/sources_1/new/JK_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JK_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Up_Down_Counter/Up_Down_Counter.srcs/sources_1/new/UP_DOWN_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UP_DOWN_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Up_Down_Counter/Up_Down_Counter.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
