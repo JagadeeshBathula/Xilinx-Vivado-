@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+t=0, clk=0, reset=1, Q=000
+t=5000, clk=1, reset=1, Q=000
+t=10000, clk=0, reset=0, Q=000
+t=15000, clk=1, reset=0, Q=001
+t=20000, clk=0, reset=0, Q=001
+t=25000, clk=1, reset=0, Q=010
+t=30000, clk=0, reset=0, Q=010
+t=35000, clk=1, reset=0, Q=011
+t=40000, clk=0, reset=0, Q=011
+t=45000, clk=1, reset=0, Q=100
+t=50000, clk=0, reset=0, Q=100
+t=55000, clk=1, reset=0, Q=101
+t=60000, clk=0, reset=0, Q=101
+t=65000, clk=1, reset=0, Q=000
+t=70000, clk=0, reset=0, Q=000
+t=75000, clk=1, reset=0, Q=001
+t=80000, clk=0, reset=0, Q=001
+t=85000, clk=1, reset=0, Q=010
+$finish called at time : 90 ns : File "D:/Vivado/Mod_6_Counter/Mod_6_Counter.srcs/sim_1/new/simulation.v" Line 17
