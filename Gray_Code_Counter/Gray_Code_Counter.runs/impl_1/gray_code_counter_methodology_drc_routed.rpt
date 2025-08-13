@@ -1,0 +1,50 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Aug 13 18:02:27 2025
+| Host         : Jagga running 64-bit major release  (build 9200)
+| Command      : report_methodology -file gray_code_counter_methodology_drc_routed.rpt -pb gray_code_counter_methodology_drc_routed.pb -rpx gray_code_counter_methodology_drc_routed.rpx
+| Design       : gray_code_counter
+| Device       : xc7a12ticsg325-1L
+| Speed File   : -1L
+| Design State : Fully Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max checks: <unlimited>
+             Checks found: 3
++-----------+------------------+-----------------------------+--------+
+| Rule      | Severity         | Description                 | Checks |
++-----------+------------------+-----------------------------+--------+
+| TIMING-17 | Critical Warning | Non-clocked sequential cell | 3      |
++-----------+------------------+-----------------------------+--------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-17#1 Critical Warning
+Non-clocked sequential cell  
+The clock pin binary_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#2 Critical Warning
+Non-clocked sequential cell  
+The clock pin binary_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#3 Critical Warning
+Non-clocked sequential cell  
+The clock pin binary_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+
