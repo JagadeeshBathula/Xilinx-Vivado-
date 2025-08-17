@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module traffic_signal_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
