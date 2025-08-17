@@ -88,6 +88,10 @@ Thinking about real-world constraints in digital design
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/16c95e67-848e-418b-9fb5-202f0adce5ad" />
 
+## License :
+
+`MIT LICENSE`
+
 
 ## Contact Me :  www.linkedin.com/in/
 jagadeesh-bathula-246aba300
