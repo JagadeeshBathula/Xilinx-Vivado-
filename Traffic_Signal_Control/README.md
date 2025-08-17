@@ -73,3 +73,17 @@ Handling parallel vehicle + pedestrian signals without conflicts
 Thinking about real-world constraints in digital design
 
 ✨ This design shows how digital design principles can directly model urban traffic control problems. Another step ahead in my journey of mastering RTL design.
+
+# Vivado Implementation  
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/574b38fc-1b62-486c-a64f-4f59db2168f9" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/aaa6a9e9-c2ec-4956-be12-8ae4ca9a8858" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ab7d579d-a8a6-4fa5-a6d6-17469f31d7e9" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6b76f738-8830-4c95-8fcd-825f392e511a" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7b9eeb7c-4b4e-4c38-a66b-4f77567f69a1" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/16c95e67-848e-418b-9fb5-202f0adce5ad" />
