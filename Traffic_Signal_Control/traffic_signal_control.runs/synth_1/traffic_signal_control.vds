@@ -1,0 +1,230 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Aug 17 15:56:56 2025
+# Process ID         : 15820
+# Current directory  : D:/Vivado/traffic_signal_control/traffic_signal_control.runs/synth_1
+# Command line       : vivado.exe -log traffic_signal_control.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source traffic_signal_control.tcl
+# Log file           : D:/Vivado/traffic_signal_control/traffic_signal_control.runs/synth_1/traffic_signal_control.vds
+# Journal file       : D:/Vivado/traffic_signal_control/traffic_signal_control.runs/synth_1\vivado.jou
+# Running On         : Jagga
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 155H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 16507 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17581 MB
+# Available Virtual  : 4840 MB
+#-----------------------------------------------------------
+source traffic_signal_control.tcl -notrace
+Command: read_checkpoint -auto_incremental -incremental D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/utils_1/imports/synth_1/traffic_signal_control.dcp
+INFO: [Vivado 12-5825] Read reference checkpoint from D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/utils_1/imports/synth_1/traffic_signal_control.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top traffic_signal_control -part xc7a35tfgg484-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 12016
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 828.496 ; gain = 473.426
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'traffic_signal_control' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:3]
+INFO: [Synth 8-155] case statement is not full and has no default [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:86]
+INFO: [Synth 8-6155] done synthesizing module 'traffic_signal_control' (0#1) [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:3]
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_N[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_S[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_E[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_W[2] driven by constant 0
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 933.766 ; gain = 578.695
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 933.766 ; gain = 578.695
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a35tfgg484-1
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a35tfgg484-1
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 933.766 ; gain = 578.695
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-327] inferring latch for variable 'state_reg' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:50]
+WARNING: [Synth 8-327] inferring latch for variable 'count_reg' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:51]
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 933.766 ; gain = 578.695
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input    7 Bit       Adders := 1     
++---Muxes : 
+	  13 Input    3 Bit        Muxes := 4     
+	  13 Input    2 Bit        Muxes := 4     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 90 (col length:60)
+BRAMs: 100 (col length: RAMB18 60 RAMB36 30)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_N[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_S[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_E[2] driven by constant 0
+WARNING: [Synth 8-3917] design traffic_signal_control has port P_W[2] driven by constant 0
+WARNING: [Synth 8-3332] Sequential element (state_reg[3]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (state_reg[2]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (state_reg[1]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (state_reg[0]) is unused and will be removed from module traffic_signal_control.
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 1st driver pin 'state_reg[3]__0/Q' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 2nd driver pin 'GND' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6858] multi-driven net Q is connected to at least one constant driver which has been preserved, other driver is ignored [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 1st driver pin 'state_reg[2]__0/Q' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 2nd driver pin 'GND' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6858] multi-driven net Q is connected to at least one constant driver which has been preserved, other driver is ignored [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 1st driver pin 'state_reg[1]__0/Q' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 2nd driver pin 'GND' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6858] multi-driven net Q is connected to at least one constant driver which has been preserved, other driver is ignored [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 1st driver pin 'state_reg[0]__0/Q' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin Q with 2nd driver pin 'GND' [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+CRITICAL WARNING: [Synth 8-6858] multi-driven net Q is connected to at least one constant driver which has been preserved, other driver is ignored [D:/Vivado/traffic_signal_control/traffic_signal_control.srcs/sources_1/new/traffic_signal_control.v:43]
+WARNING: [Synth 8-3332] Sequential element (count_reg[6]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[5]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[4]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[3]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[2]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[1]) is unused and will be removed from module traffic_signal_control.
+WARNING: [Synth 8-3332] Sequential element (count_reg[0]) is unused and will be removed from module traffic_signal_control.
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:07 ; elapsed = 00:00:08 . Memory (MB): peak = 1085.535 ; gain = 730.465
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 1101.297 ; gain = 746.227
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 1101.297 ; gain = 746.227
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-----+------+
+|      |Cell |Count |
++------+-----+------+
+|1     |OBUF |    24|
++------+-----+------+
+
+Report Instance Areas: 
++------+---------+-------+------+
+|      |Instance |Module |Cells |
++------+---------+-------+------+
+|1     |top      |       |    24|
++------+---------+-------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 12 critical warnings and 22 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+Synthesis Optimization Complete : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 1302.098 ; gain = 947.027
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1316.227 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1426.879 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete | Checksum: d9c7a280
+INFO: [Common 17-83] Releasing license: Synthesis
+17 Infos, 22 Warnings, 12 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:11 ; elapsed = 00:00:14 . Memory (MB): peak = 1426.879 ; gain = 1079.043
+INFO: [runtcl-6] Synthesis results are not added to the cache due to CRITICAL_WARNING
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1426.879 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'D:/Vivado/traffic_signal_control/traffic_signal_control.runs/synth_1/traffic_signal_control.dcp' has been generated.
+INFO: [Vivado 12-24828] Executing command : report_utilization -file traffic_signal_control_utilization_synth.rpt -pb traffic_signal_control_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sun Aug 17 15:57:13 2025...
