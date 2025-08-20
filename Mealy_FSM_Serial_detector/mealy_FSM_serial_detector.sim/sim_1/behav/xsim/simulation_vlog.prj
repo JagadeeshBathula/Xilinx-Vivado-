@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mealy_FSM_serial_detector.srcs/sources_1/new/mealy_fsm_serial_detector.v" \
+"../../../../mealy_FSM_serial_detector.srcs/sim_1/new/simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
