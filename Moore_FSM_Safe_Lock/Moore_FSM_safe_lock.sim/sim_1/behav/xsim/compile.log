@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Moore_FSM_safe_lock/Moore_FSM_safe_lock.srcs/sources_1/new/moore_fsm_safe_lock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_fsm_safe_lock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Moore_FSM_safe_lock/Moore_FSM_safe_lock.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
