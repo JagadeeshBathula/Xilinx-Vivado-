@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Digital_Door_Lock/Digital_Door_Lock.srcs/sources_1/new/digital_door_lock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_door_lock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Digital_Door_Lock/Digital_Door_Lock.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
