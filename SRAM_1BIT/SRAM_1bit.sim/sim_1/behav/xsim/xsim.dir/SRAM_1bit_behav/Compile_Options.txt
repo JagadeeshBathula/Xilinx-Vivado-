@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "SRAM_1bit_behav" "xil_defaultlib.SRAM_1bit" "xil_defaultlib.glbl" -log "elaborate.log" 
