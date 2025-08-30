@@ -36,4 +36,21 @@ Useful for implementing small lookup tables, truth tables, or fixed data storage
 
 ## Vivado implementation  
 
+![Image](https://github.com/user-attachments/assets/041b2cd6-1966-4498-917b-5fe84705075c)
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/5427fc78-ea9a-4b96-a85f-eb666f40d672" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/734ab845-947f-4aff-8c1a-2397254aefcc" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/cf3cbac5-967d-4bc6-988d-a180ad9e6878" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/fe03d09f-e5fb-43e5-af7f-c6f9ee17cb2d" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e4689abd-2cbe-4677-880d-cde51c3a0fea" />
+
+## Contact Me :
+
+www.linkedin.com/in/
+jagadeesh-bathula-246aba300
+Vanity URL name
 
