@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+t=0, clk=0, en=0, address=zz, data_out=0000
+t=5000, clk=1, en=0, address=zz, data_out=zzzz
+t=10000, clk=0, en=1, address=00, data_out=zzzz
+t=15000, clk=1, en=1, address=00, data_out=0000
+t=20000, clk=0, en=1, address=01, data_out=0000
+t=25000, clk=1, en=1, address=01, data_out=0101
+t=30000, clk=0, en=1, address=10, data_out=0101
+t=35000, clk=1, en=1, address=10, data_out=1010
+t=40000, clk=0, en=1, address=11, data_out=1010
+t=45000, clk=1, en=1, address=11, data_out=1111
+$finish called at time : 50 ns : File "D:/Vivado/ROM_4x4/ROM_4x4.srcs/sim_1/new/simulation.v" Line 28
