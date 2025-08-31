@@ -35,19 +35,24 @@ Write/Write (same location) → Conflict may occur (depends on design priority)
 
 ![Image](https://github.com/user-attachments/assets/19dba3a1-9e51-4f4c-975e-84972b69acbb)
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/58180a0e-e555-464e-ab18-9fc7e7ca4896" />
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/93520a89-ce5e-4f23-9122-4324dbaa7ae6" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f43c1391-437d-498f-8d01-673a1b0a2637" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/05ef9f6b-4078-461b-ad74-115a1bc14465" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0623e43f-00a7-47d4-ae19-f9329a9518f1" />
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f43c1391-437d-498f-8d01-673a1b0a2637" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/15195cc0-b11f-4b5c-af17-924e52039a7a" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/90341a72-8891-4c97-a5ab-2edfb18421db" />
 
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/58180a0e-e555-464e-ab18-9fc7e7ca4896" />
+
 
 
 ## Contact Me :
