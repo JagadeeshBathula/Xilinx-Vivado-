@@ -39,11 +39,12 @@ Write/Write (same location) → Conflict may occur (depends on design priority)
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/93520a89-ce5e-4f23-9122-4324dbaa7ae6" />
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0623e43f-00a7-47d4-ae19-f9329a9518f1" />
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f43c1391-437d-498f-8d01-673a1b0a2637" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/05ef9f6b-4078-461b-ad74-115a1bc14465" />
-
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0623e43f-00a7-47d4-ae19-f9329a9518f1" />
 
 
 
