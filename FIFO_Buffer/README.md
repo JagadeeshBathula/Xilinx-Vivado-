@@ -27,3 +27,20 @@ The circular nature of the buffer is maintained by wrapping the pointers back to
 full and empty signals ensure safe operation, avoiding overflow (writing when full) or underflow (reading when empty).
 
 This structure makes FIFOs ideal for data buffering between fast and slow modules, or in asynchronous systems where producer and consumer operate at different rates.
+
+## Viavado Implementation :
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/94f204c2-3b40-48b3-bdd5-f016ff933840" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/62a000d6-ca5f-44f3-9c78-f76751a9c097" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9e8b3f30-e175-44e4-8241-a27059d6f982" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a78dca00-b5d7-48df-b690-bec54615f4e6" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/21918a63-5f2d-463e-b86e-d779b5c89a23" />
+
+## Contact me :
+www.linkedin.com/in/
+jagadeesh-bathula-246aba300
+Vanity URL name
