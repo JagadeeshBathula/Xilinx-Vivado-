@@ -1,1 +1,29 @@
+# FIFO BUFFER 
 
+## 🔎 Explanation
+
+A FIFO (First-In First-Out) buffer is a memory element that stores data in the order it arrives and outputs it in the same order. It behaves like a queue – the first data written is always the first to be read.
+
+## The design uses:
+
+Write Pointer (w_ptr): Points to the memory location where the next data will be written.
+
+Read Pointer (r_ptr): Points to the memory location from which the next data will be read.
+
+Full Flag: Goes high when the buffer is completely filled and no further write is possible.
+
+Empty Flag: Goes high when the buffer has no data left to read.
+
+Counter (optional): Keeps track of the number of elements currently in the buffer.
+
+## Working principle:
+
+On every clock cycle, if wr_en = 1, new data is stored at the position indicated by w_ptr, and then w_ptr is incremented.
+
+If rd_en = 1, data is read out from the position indicated by r_ptr, and then r_ptr is incremented.
+
+The circular nature of the buffer is maintained by wrapping the pointers back to 0 when they reach the maximum depth.
+
+full and empty signals ensure safe operation, avoiding overflow (writing when full) or underflow (reading when empty).
+
+This structure makes FIFOs ideal for data buffering between fast and slow modules, or in asynchronous systems where producer and consumer operate at different rates.
