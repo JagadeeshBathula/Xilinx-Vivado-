@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/FIFO_Buffer/FIFO_Buffer.srcs/sources_1/new/fifo_buffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_buffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/FIFO_Buffer/FIFO_Buffer.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation

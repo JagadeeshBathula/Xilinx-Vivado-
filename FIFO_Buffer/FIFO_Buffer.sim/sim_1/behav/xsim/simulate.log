@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Writing:  36
+Writing: 129
+Writing:   9
+Writing:  99
+Reading:   0
+Reading:  36
+Reading: 129
+Reading:   9
+$finish called at time : 125 ns : File "D:/Vivado/FIFO_Buffer/FIFO_Buffer.srcs/sim_1/new/simulation.v" Line 45
