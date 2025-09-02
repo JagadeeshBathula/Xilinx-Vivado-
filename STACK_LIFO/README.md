@@ -42,3 +42,27 @@ When sp == DEPTH.
 Empty Condition:
 
 When sp == 0.
+
+## Vivado Implementation:
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/516e3e03-fcb5-4065-b535-7ed9d57c569f" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c465a311-344f-425a-99e5-e55cbaeb1c1f" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/75a6c8d3-ba6c-41b3-8807-fe5a46332f82" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6569c35d-7f78-40c6-bb07-642e6a04bb7f" />
+
+## 🔹 Applications
+
+Function call management (Call Stack in CPUs)
+
+Undo/Redo in text editors
+
+Expression evaluation (infix → postfix → prefix)
+
+Backtracking algorithms (DFS, maze solving)
+
+## Contact me  : 
+http://www.linkedin.com/in/
+
