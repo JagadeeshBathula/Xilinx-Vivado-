@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/STACK_LIFO/STACK_LIFO.srcs/sources_1/new/stack_lifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stack_lifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/STACK_LIFO/STACK_LIFO.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/STACK_LIFO/STACK_LIFO.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
