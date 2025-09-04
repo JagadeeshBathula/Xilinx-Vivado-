@@ -36,3 +36,18 @@ Cache memory lookups
 Pattern recognition and matching
 
 Associative memory in AI accelerators
+
+## Vivado Implementation  
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/76b315e0-a91a-419f-b480-13efaf1bc3ef" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/be566917-04ce-4c62-b7d5-96bd87e852e5" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7e1bf858-9f57-4c4d-8b0a-9dfb155268bb" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1f072d87-8fb6-488b-9c2a-a8a011d5de1d" />
+
+## Contact me  : 
+www.linkedin.com/in/
+jagadeesh-bathula-246aba300
+Vanity URL name
