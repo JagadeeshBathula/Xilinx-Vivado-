@@ -1,0 +1,37 @@
+Time resolution is 1 ps
+t=0,clk=0,write_en=1,write_in=0000000000000000,write_addr=000,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000000,read_out_2=0000000000000000
+t=5000,clk=1,write_en=1,write_in=0000000000000000,write_addr=000,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=10000,clk=0,write_en=1,write_in=0000000000000101,write_addr=000,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=15000,clk=1,write_en=1,write_in=0000000000000101,write_addr=000,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=20000,clk=0,write_en=1,write_in=0000000000011110,write_addr=001,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=25000,clk=1,write_en=1,write_in=0000000000011110,write_addr=001,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=30000,clk=0,write_en=1,write_in=0000000001101110,write_addr=010,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=35000,clk=1,write_en=1,write_in=0000000001101110,write_addr=010,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=40000,clk=0,write_en=1,write_in=0000000001000101,write_addr=011,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=45000,clk=1,write_en=1,write_in=0000000001000101,write_addr=011,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=50000,clk=0,write_en=1,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=55000,clk=1,write_en=1,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=60000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=65000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=70000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=75000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=80000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=0,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=82000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=zzzzzzzzzzzzzzzz,read_out_2=zzzzzzzzzzzzzzzz
+t=85000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=90000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=95000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=100000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=105000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=110000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=000,read_addr_2=000,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=114000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000000000101,read_out_2=0000000000000101
+t=115000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=120000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=125000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=130000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=135000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=010,read_addr_2=011,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=136000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=001,read_addr_2=101,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=140000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=001,read_addr_2=101,read_out_1=0000000001101110,read_out_2=0000000001000101
+t=145000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=001,read_addr_2=101,read_out_1=0000000000011110,read_out_2=0000000000000000
+t=150000,clk=0,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=001,read_addr_2=101,read_out_1=0000000000011110,read_out_2=0000000000000000
+t=155000,clk=1,write_en=0,write_in=0000000000111100,write_addr=100,read_en=1,read_addr_1=001,read_addr_2=101,read_out_1=0000000000011110,read_out_2=0000000000000000
+$finish called at time : 158 ns : File "D:/Vivado/Register_Files/Register_Files.srcs/sim_1/new/simulation.v" Line 38
