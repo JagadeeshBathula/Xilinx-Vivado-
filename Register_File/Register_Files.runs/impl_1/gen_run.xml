@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tfgg484-3" LaunchTime="1757674298">
+  <File Type="ROUTE-PWR" Name="register_file_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="register_file.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="register_file_power_summary_routed.pb"/>
+  <File Type="OPT-RQA-PB" Name="register_file_rqa_opted.pb"/>
+  <File Type="REPORTS-TCL" Name="register_file_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="register_file_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="register_file_opt.dcp"/>
+  <File Type="OPT-DRC" Name="register_file_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="register_file_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="register_file.hwdef"/>
+  <File Type="OPT-TIMING" Name="register_file_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="register_file_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="register_file_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="register_file_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="register_file_placed.dcp"/>
+  <File Type="PLACE-IO" Name="register_file_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="register_file_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="register_file_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="register_file_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="register_file_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="register_file_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="register_file_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="register_file.bin"/>
+  <File Type="PLACE-TIMING" Name="register_file_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="register_file_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="register_file_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="register_file_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="register_file.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="register_file_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="register_file_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="register_file_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="register_file.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="register_file_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="register_file_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="register_file_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="register_file_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="register_file_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="register_file_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="register_file_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="register_file_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="register_file_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="register_file_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="register_file_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="register_file_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="register_file_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="register_file_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="register_file_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="register_file_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="register_file_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="register_file_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="register_file_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="register_file_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="register_file_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="register_file_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="register_file_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="register_file_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="register_file_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="register_file_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="register_file_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="register_file.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="register_file_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="register_file_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="register_file.nky"/>
+  <File Type="BITSTR-BMM" Name="register_file_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="register_file.mmi"/>
+  <File Type="PDI-FILE" Name="register_file.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="register_file_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="register_file_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="register_file.rcfi"/>
+  <File Type="CFI_FILE" Name="register_file.cfi"/>
+  <File Type="RNPI_FILE" Name="register_file.rnpi"/>
+  <File Type="NPI_FILE" Name="register_file.npi"/>
+  <File Type="RBD_FILE" Name="register_file.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="register_file.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="register_file.sysdef"/>
+  <File Type="BG-BGN" Name="register_file.bgn"/>
+  <File Type="BG-DRC" Name="register_file.drc"/>
+  <File Type="RDI-RDI" Name="register_file.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="register_file_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="register_file_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/register_file.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="register_file"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/clk.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
