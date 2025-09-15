@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xa7a12tcsg325-2I" LaunchTime="1749798282" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/RADIX4_BOOTHMULTIPLIER32BIT.dcp">
+  <File Type="REPORTS-TCL" Name="RADIX4_BOOTHMULTIPLIER32BIT_reports.tcl"/>
+  <File Type="RDS-UTIL" Name="RADIX4_BOOTHMULTIPLIER32BIT_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_utilization_synth.pb"/>
+  <File Type="PA-TCL" Name="RADIX4_BOOTHMULTIPLIER32BIT.tcl"/>
+  <File Type="RDS-RDS" Name="RADIX4_BOOTHMULTIPLIER32BIT.vds"/>
+  <File Type="RDS-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../RADIX4_BOOTHMULTIPLIER32BIT.V">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="RADIX4_BOOTHMULTIPLIER32BIT"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/RADIX4_BOOTHMULTIPLIER32BIT.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2024"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

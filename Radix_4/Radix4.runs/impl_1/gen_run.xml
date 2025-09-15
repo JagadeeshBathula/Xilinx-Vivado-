@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xa7a12tcsg325-2I" LaunchTime="1757940899">
+  <File Type="PA-TCL" Name="RADIX4_BOOTHMULTIPLIER32BIT.tcl"/>
+  <File Type="REPORTS-TCL" Name="RADIX4_BOOTHMULTIPLIER32BIT_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_opt.dcp"/>
+  <File Type="OPT-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="RADIX4_BOOTHMULTIPLIER32BIT.hwdef"/>
+  <File Type="OPT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_placed.dcp"/>
+  <File Type="PLACE-IO" Name="RADIX4_BOOTHMULTIPLIER32BIT_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="RADIX4_BOOTHMULTIPLIER32BIT_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="RADIX4_BOOTHMULTIPLIER32BIT_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="RADIX4_BOOTHMULTIPLIER32BIT_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="RADIX4_BOOTHMULTIPLIER32BIT_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="RADIX4_BOOTHMULTIPLIER32BIT_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="RADIX4_BOOTHMULTIPLIER32BIT_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="RADIX4_BOOTHMULTIPLIER32BIT_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="RADIX4_BOOTHMULTIPLIER32BIT_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="RADIX4_BOOTHMULTIPLIER32BIT_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="RADIX4_BOOTHMULTIPLIER32BIT_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-RQS-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="RADIX4_BOOTHMULTIPLIER32BIT_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="RADIX4_BOOTHMULTIPLIER32BIT_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="RADIX4_BOOTHMULTIPLIER32BIT.bit"/>
+  <File Type="BG-BIN" Name="RADIX4_BOOTHMULTIPLIER32BIT.bin"/>
+  <File Type="BITSTR-MSK" Name="RADIX4_BOOTHMULTIPLIER32BIT.msk"/>
+  <File Type="BITSTR-RBT" Name="RADIX4_BOOTHMULTIPLIER32BIT.rbt"/>
+  <File Type="BITSTR-NKY" Name="RADIX4_BOOTHMULTIPLIER32BIT.nky"/>
+  <File Type="BITSTR-BMM" Name="RADIX4_BOOTHMULTIPLIER32BIT_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="RADIX4_BOOTHMULTIPLIER32BIT.mmi"/>
+  <File Type="PDI-FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.rcfi"/>
+  <File Type="CFI_FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.cfi"/>
+  <File Type="RNPI_FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.rnpi"/>
+  <File Type="NPI_FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.npi"/>
+  <File Type="RBD_FILE" Name="RADIX4_BOOTHMULTIPLIER32BIT.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="RADIX4_BOOTHMULTIPLIER32BIT.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="RADIX4_BOOTHMULTIPLIER32BIT.sysdef"/>
+  <File Type="BG-BGN" Name="RADIX4_BOOTHMULTIPLIER32BIT.bgn"/>
+  <File Type="BG-DRC" Name="RADIX4_BOOTHMULTIPLIER32BIT.drc"/>
+  <File Type="RDI-RDI" Name="RADIX4_BOOTHMULTIPLIER32BIT.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="RADIX4_BOOTHMULTIPLIER32BIT_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="RADIX4_BOOTHMULTIPLIER32BIT_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../RADIX4_BOOTHMULTIPLIER32BIT.V">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="RADIX4_BOOTHMULTIPLIER32BIT"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/RADIX4_BOOTHMULTIPLIER32BIT.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
