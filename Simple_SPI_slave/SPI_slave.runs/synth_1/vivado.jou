@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Sep 22 18:38:50 2025
+# Process ID         : 6604
+# Current directory  : D:/Vivado/SPI_slave/SPI_slave.runs/synth_1
+# Command line       : vivado.exe -log SPI_slave.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SPI_slave.tcl
+# Log file           : D:/Vivado/SPI_slave/SPI_slave.runs/synth_1/SPI_slave.vds
+# Journal file       : D:/Vivado/SPI_slave/SPI_slave.runs/synth_1\vivado.jou
+# Running On         : Jagga
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 155H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 16507 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17581 MB
+# Available Virtual  : 6343 MB
+#-----------------------------------------------------------
+source SPI_slave.tcl -notrace
