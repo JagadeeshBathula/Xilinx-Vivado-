@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Baby_monitoring_system.srcs/sources_1/new/baby_monitor_top.v" \
+"../../../../Baby_monitoring_system.srcs/sources_1/new/sensor_interface.v" \
+"../../../../Baby_monitoring_system.srcs/sources_1/new/sram_8x8.v" \
+"../../../../Baby_monitoring_system.srcs/sim_1/new/simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

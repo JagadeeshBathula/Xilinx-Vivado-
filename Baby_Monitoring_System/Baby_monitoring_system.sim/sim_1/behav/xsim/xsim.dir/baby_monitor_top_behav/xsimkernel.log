@@ -1,0 +1,7 @@
+Running: xsim.dir/baby_monitor_top_behav/xsimk.exe -simmode gui -wdb baby_monitor_top_behav.wdb -simrunnum 0 -socket 60546
+Design successfully loaded
+Design Loading Memory Usage: 29560 KB (Peak: 29560 KB)
+Design Loading CPU Usage: 1077 ms
+Simulation completed
+Simulation Memory Usage: 30352 KB (Peak: 30352 KB)
+Simulation CPU Usage: 1140 ms

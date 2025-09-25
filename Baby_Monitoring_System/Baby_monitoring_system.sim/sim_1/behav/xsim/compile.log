@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Baby_monitoring_system/Baby_monitoring_system.srcs/sources_1/new/baby_monitor_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module baby_monitor_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Baby_monitoring_system/Baby_monitoring_system.srcs/sources_1/new/sensor_interface.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sensor_interface
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Baby_monitoring_system/Baby_monitoring_system.srcs/sources_1/new/sram_8x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sram_8x8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Baby_monitoring_system/Baby_monitoring_system.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
