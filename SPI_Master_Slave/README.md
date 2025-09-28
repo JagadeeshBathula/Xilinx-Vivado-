@@ -88,10 +88,10 @@ No standard error checking (like I²C’s ACK).
 
 <img width="1920" height="1200" alt="Screenshot (1002)" src="https://github.com/user-attachments/assets/d976a294-be8a-4b98-a9de-788eea209046" />
 
-## Contact Me : 
-http://www.linkedin.com/in/
 <img width="1920" height="1200" alt="Screenshot (998)" src="https://github.com/user-attachments/assets/38b0c6c6-2105-4131-9099-c2a03d7e2dba" />
 
 
+## Contact Me : 
+http://www.linkedin.com/in/
 
 
