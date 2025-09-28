@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/SPI_Master_Slave/SPI_Master_Slave.srcs/sources_1/new/Master_SPI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Master_SPI
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/SPI_Master_Slave/SPI_Master_Slave.srcs/sources_1/new/Slave_SPI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Slave_SPI
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Master_slave/SPI_Master_Slave/SPI_Master_Slave.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
