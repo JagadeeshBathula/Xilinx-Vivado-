@@ -20,13 +20,13 @@ SS/CS (Slave Select / Chip Select) – Active-low signal used by the master to e
 
 ## 3. How It Works
 
-Master starts communication:
+Master starts communication :
 
 Pulls the SS line of the desired slave low.
 
 Generates clock pulses on SCLK.
 
-Data transfer:
+Data transfer :
 
 Master sends data bit-by-bit on MOSI.
 
@@ -34,7 +34,7 @@ Slave samples the data on each clock edge (rising or falling depending on SPI mo
 
 Slave can send data back simultaneously on MISO.
 
-End of communication:
+End of communication :
 
 Master pulls SS high, signaling the end of the transaction.
 
