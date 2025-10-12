@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/I2c_Slave/I2c_Slave.srcs/sources_1/new/i2c_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/I2c_Slave/I2c_Slave.srcs/sim_1/new/simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation
