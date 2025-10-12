@@ -4,20 +4,19 @@ An I²C slave is a device connected to the I²C bus that responds to commands se
 It does not control the clock; it only listens and reacts. The master initiates communication, and the slave either:
 
 Receives data from the master (Write mode), or
-
 Sends data to the master (Read mode)
 
-Key roles of an I²C slave:
+###  Key roles of an I²C slave:
 
-Listens on the SDA and SCL lines
+* Listens on the SDA and SCL lines
 
-Recognizes its assigned address
+* Recognizes its assigned address
 
-Responds when addressed
+* Responds when addressed
 
-Sends or receives bytes as instructed
+* Sends or receives bytes as instructed
 
-Generates or accepts ACK/NACK bits
+* Generates or accepts ACK/NACK bits
 
 ## Vivado Implementation  :
 
