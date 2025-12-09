@@ -1,0 +1,7 @@
+Running: xsim.dir/water_tank_control_behav/xsimk.exe -simmode gui -wdb water_tank_control_behav.wdb -simrunnum 0 -socket 64428
+Design successfully loaded
+Design Loading Memory Usage: 29672 KB (Peak: 29672 KB)
+Design Loading CPU Usage: 859 ms
+Simulation completed
+Simulation Memory Usage: 30432 KB (Peak: 30432 KB)
+Simulation CPU Usage: 921 ms
